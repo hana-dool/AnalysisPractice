@@ -1,0 +1,2 @@
+class config : 
+    NGROK_TOKEN = '2GnPpAefJ3AjAKCL2F9E5iRoMA8_6WeMY7PZKMpHsWxdMBxzP'
